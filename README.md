@@ -1,2 +1,3 @@
 # SYNC_INTERNS_TASK_1
-Product landing page of a footwear website using html and css
+The product landing page of a footwear website using HTML and CSS
+https://gayatrichoudhury.github.io/SYNC_INTERNS_TASK_1/
